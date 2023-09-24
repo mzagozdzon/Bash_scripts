@@ -1,5 +1,7 @@
 # Bash\_scripts
 
+**1. ocr_from_folder_interactive_en_pl.sh**
+
  This script converts image files into text-based PDFs and merges them into a single PDF that allows text searching.
 
  This program requires the following Linux packages to work correctly:  
