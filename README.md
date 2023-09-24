@@ -24,10 +24,10 @@ You can OCR the file types:
 
 **How to use:**
 
-Get file 'ocr_from_folder_interactive_en_pl.sh' and save in a folder other than the folder with image files for OCR.  
-Grant execution permissions for the file > sudo chmod +x ocr_from_folder_interactive_en_pl.sh  
-Open terminal and go to the folder with files to the OCR.  
-Run command > /path_to_the_ocr_from_folder_interactive_en_pl.sh (for examp. /home/user/Downloads/ocr_from_folder_interactive_en_pl.sh)  
-Enjoy.
+1. Get file 'ocr_from_folder_interactive_en_pl.sh' and save in a folder other than the folder with image files for OCR.  
+2. Grant execution permissions for the file > sudo chmod +x ocr_from_folder_interactive_en_pl.sh  
+3. Open terminal and go to the folder with files to the OCR.  
+4. Run command > /path_to_the_ocr_from_folder_interactive_en_pl.sh (for examp. /home/user/Downloads/ocr_from_folder_interactive_en_pl.sh)  
+5. Enjoy.
 
 
